@@ -80,7 +80,6 @@ const gamepad = document.getElementById('gamepad');
 const dpad_c = document.querySelectorAll('#gamepad__1__dpad-container button');
 const actbtn = document.querySelectorAll('#gamepad__1__actionbtn-container button')[0];
 const frame = document.getElementById('gamespot__mobile__game-frame');
-var message = null;
 
 var GPAD_BTNS = [dpad_c[0], dpad_c[1], actbtn];
 
@@ -194,7 +193,6 @@ Dentro do código *iframe*, na página `game.html`, foram inseridas as linhas ab
     window.addEventListener("message", (e) => {
         if(Array.isArray(e.data)) {
             window.pressedButtons = e.data;
-            console.log(window.pressedButtons);
         }
     });
 
