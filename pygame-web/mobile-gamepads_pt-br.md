@@ -28,7 +28,7 @@ MAPEV = {
 * Para ver o resultado da aplicação desta metodologia, acesse o jogo na plataforma [BlendifyGames](https://www.blendifygames.com.br/spyceinvaders) usando um dispositivo móvel:
 
     <p align="center" width="100%">
-        <img src="./img/0001.png" width="30%"><br>
+        <img src="./img/0001-spyceinvaders-mobile.gif" width="30%"><br>
         <b>Figura: <i>Tela do jogo Spyce Invaders para web-mobile</i></b>
     </p>
 

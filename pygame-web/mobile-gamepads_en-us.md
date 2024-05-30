@@ -30,8 +30,8 @@ MAPEV = {
 * To see the result of applying this methodology, access the game on the [BlendifyGames](https://www.blendifygames.com.br/spyceinvaders) platform using a mobile device:
 
     <p align="center" width="100%">
-        <img src="./img/0001.png" width="30%"><br>
-        <b>Figure: <i>Screenshot of Spyce Invaders running on web-mobile</i></b>
+        <img src="./img/0001-spyceinvaders-mobile.gif" width="30%"><br>
+        <b>Figure: <i>Screen recoding of Spyce Invaders running on web-mobile</i></b>
     </p>
 
 ## The gamepad on the HTML page
