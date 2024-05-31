@@ -31,7 +31,7 @@ MAPEV = {
 
     <p align="center" width="100%">
         <img src="./img/0001-spyceinvaders-mobile.gif" width="30%"><br>
-        <b>Figure: <i>Screen recoding of Spyce Invaders running on web-mobile</i></b>
+        <b>Figure: <i>Screen recording of Spyce Invaders running on web-mobile</i></b>
     </p>
 
 ## The gamepad on the HTML page
