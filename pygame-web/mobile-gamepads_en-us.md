@@ -136,7 +136,7 @@ function handleTouchOn(e) {
     for(let i = 0; i < touches.length; i++) {
         const touch = touches[i];
         const button = getButtonFromPoint(touch.clientX, touch.clientY)
-        if(button && button.tagName.toLowerCase() == 'button') {
+        if(button) {
             toggle(button, true);
         }
     }
@@ -149,7 +149,7 @@ function handleTouchOff(e) {
     for(let i = 0; i < touches.length; i++) {
         const touch = touches[i];
         const button = getButtonFromPoint(touch.clientX, touch.clientY)
-        if(button && button.tagName.toLowerCase() == 'button') {
+        if(button) {
             toggle(button, false);
         }
     }
