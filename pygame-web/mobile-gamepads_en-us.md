@@ -65,7 +65,7 @@ The gamepad has a simple configuration in HTML. It consists of a `div` named `ga
 <!-- html body -->
 ```
 
-The `gamepad__1__dpad-container` element will contain the directional buttons, while the `gamepad__1__actionbtn-container` will contain only the action button. Note that the buttons are configured with IDs corresponding to the keys of the [MAPEV](#código-mapev---mapping-events-from-html-to-pygame) dictionary inserted within the game [Spyce Invaders](https://github.com/Blendify-Games/SpyceInvaders).
+The `gamepad__1__dpad-container` element will contain the directional buttons, while the `gamepad__1__actionbtn-container` will contain only the action button. Note that the buttons are configured with IDs corresponding to the keys of the [MAPEV](#code-mapev---mapping-events-from-html-to-pygame) dictionary inserted within the game [Spyce Invaders](https://github.com/Blendify-Games/SpyceInvaders).
 
 I will not go into details regarding the graphical specification via CSS, since the code itself is not very "good." There are several styling issues on the page that I cannot fix right now, but you can find someone with CSS skills to do a good job 🥲.
 
